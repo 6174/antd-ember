@@ -201,11 +201,11 @@ form {
   }
 }
 
-.ant-search-input {
-  &.ant-input-group .ant-input:first-child {
+.@{css-prefix}search-input {
+  &.@{css-prefix}input-group .@{css-prefix}input:first-child {
     border-radius: @border-radius-base;
   }
-  .ant-search-btn {
+  .@{css-prefix}search-btn {
     .btn-default;
     border-radius: 0 @border-radius-base - 1 @border-radius-base - 1 0;
     margin-left: -30px;
@@ -222,8 +222,8 @@ form {
       padding-bottom: 6px;
     }
   }
-  &&-focus .ant-search-btn-noempty,
-  &:hover .ant-search-btn-noempty {
+  &&-focus .@{css-prefix}search-btn-noempty,
+  &:hover .@{css-prefix}search-btn-noempty {
     .btn-primary;
   }
 }
