@@ -2,5 +2,5 @@
 'use strict';
 
 module.exports = {
-  name: 'ember-cli-idcos'
+  name: 'antd-ember'
 };

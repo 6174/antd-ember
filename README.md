@@ -1,25 +1,12 @@
-# Ember-cli-idcos
+# antd-ember
 
-This README outlines the details of collaborating on this Ember addon.
+Ant Design of Ember (Antd Ember 实现)
 
-## Installation
+如果有兴趣贡献代码的， welcome
 
-* `git clone` this repository
-* `npm install`
-* `bower install`
+Coming soon....
 
-## Running
+# 链接
 
-* `ember server`
-* Visit your app at http://localhost:4200.
+- [Ant Design](http://ant.design/docs/spec/introduce)
 
-## Running Tests
-
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
