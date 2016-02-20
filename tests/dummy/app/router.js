@@ -6,6 +6,10 @@ var Router = Ember.Router.extend({
 });
 
 Router.map(function() {
+	this.route('docs', function() {
+		this.route('button');
+		this.route('table');
+	})
 });
 
 export default Router;
