@@ -1,6 +1,6 @@
 {
-  "name": "antd-ember",
-  "version": "0.0.0",
+  "name": "ember-cli-idcos",
+  "version": "1.0.0",
   "description": "The default blueprint for ember-cli addons.",
   "directories": {
     "doc": "doc",
@@ -35,8 +35,7 @@
     "ember-disable-proxy-controllers": "^1.0.0",
     "ember-export-application-global": "^1.0.3",
     "ember-disable-prototype-extensions": "^1.0.0",
-    "ember-try": "0.0.6",
-    "ember-cli-less": "*"
+    "ember-try": "0.0.6"
   },
   "keywords": [
     "ember-addon"

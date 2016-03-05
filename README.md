@@ -1,11 +1,10 @@
-# antd-ember
+# Antd-Ember (fork from [ember-cli-idcos](https://github.com/idcos/ember-cli-idcos))
 
-Ant Design of Ember (Antd Ember 实现)
+**Ember-cli-idcos = Ember + Antd**
 
-如果有兴趣贡献代码的， welcome
+## Install
 
-Coming soon....
+```shell
+  $ npm install ember-cli-idcos --save
+```
 
-# 链接
-
-- [Ant Design](http://ant.design/docs/spec/introduce)
